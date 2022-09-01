@@ -5,4 +5,4 @@ Download the [executable file](https://github.com/metalevel-tech/windows-always-
 
 In order to start the script when you log-in place it in your Windows user's [`shell:startup`](https://www.softwareok.com/?seite=faq-Windows-10&faq=151) directory.
 
-If you want clone the repository, or just download th .akh file, modify the key combination and [compile](https://www.autohotkey.com/docs/Scripts.htm#ahk2exe) it for yourself.
+If you want clone the repository, or just download the .akh file, modify the key combination and [compile](https://www.autohotkey.com/docs/Scripts.htm#ahk2exe) it for yourself.
